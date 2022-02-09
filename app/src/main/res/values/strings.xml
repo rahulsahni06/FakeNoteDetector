@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fake Note Detector</string>
+    <string name="app_name_exp">Fake Note Detector exp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_classify">ClassifyActivity</string>
+    <string name="title_activity_real_time_classifier">RealTimeClassifier</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_security_thread">SecurityThreadActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

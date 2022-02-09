@@ -1,0 +1,1 @@
+note.jpg|input\/note.jpg
